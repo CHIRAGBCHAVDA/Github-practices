@@ -1,4 +1,4 @@
-Nmae - ishita keshawani\
-branch - computer\
-sem - 5th\
-email - ishitakeshawani@gmail.com
+Name - CHIRAG CHAVDA\
+branch - IT\
+sem - 3rd\
+email - chiragchavda0036@gmail.com
